@@ -1,0 +1,315 @@
+CM 
+   This data base was created by the program MOLED version 9.07
+   Reference:
+   Baskin I.I., Palyulin V.A., Zefirov N.S. Program MOLED
+AA 
+   A1 =A1
+   A2 =A2 
+   A3 =A3  
+   A4 =A4   
+   A5 =A5    
+   A6 =A6     
+   A7 =A7      
+   A8 =A8       
+   A9 =A9        
+   A10=A10       
+   A11=A11       
+IN 1     
+FL cancerF4.str
+NM dezoxiriboxid, hydroxihexaftorisopropyl, uracyl               
+MF C12F6H12N2O6
+PO  .1715481563313018 
+A1  394.2258
+A3  CaOy
+A4  100g
+A6 1000mkg/ml
+A117900-180  
+IN 2     
+FL CANCERF4.str
+NM beta-dezoxiriboxid, hydroxihexaftorisopropyl, uracyl 
+MF C12F6H12N2O6
+PO  .1715481563313018 
+A1  394.2258  
+A3  CaOy      
+A4  100 g     
+A5  18        
+A6  500mkg/ml 
+A11 7900-181  
+IN 3     
+FL CANCERF4.str
+NM 5-perftorisopropyluracyl                                           
+MF C7F7H3N2O2
+PO  .1515667329972586 
+A1  280.101   
+A2  275-6     
+A3  CaOy      
+A4  100g      
+A5  29.7      
+A6  300mkg/ml 
+A11 7900-167  
+IN 4     
+FL CANCERF4.str
+NM 5-(alfa-aminohexaftorisopropyl)-2'-dezoxiribouridin                
+MF C12F6H13N3O5
+PO  .1742481088869955 
+A1  393.2415  
+A3  CaOy      
+A4  100 g     
+A5  53.9      
+A6  100-1.0mkg
+A11 8500-121  
+IN 5     
+FL CANCERF4.str
+NM alfa-aminohexaftorisopropyl, 2'-ribosa, uridin                     
+MF C12F6H13N3O6
+PO  .170650941024465 
+A1  409.24    
+A3  CaOy      
+A4  100 g     
+A5  36        
+A6  >100mkg/ml
+A11 8500-122  
+IN 6     
+FL CANCERF4.str
+NM 5-(alfa-aminohexaftorisopropyl)uracyl                              
+MF C7F6H5N3O2
+PO  .1575088974318054 
+A1  277.1255  
+A3  CaOy      
+A4  100 g     
+A5  15.1      
+A6  >1000mkg/m
+A11 8500-127  
+IN 7     
+FL CANCERF4.str
+NM 5-(alfa-aminohexaftorisopropyl)-alfa-2'-desoxi-uridin
+MF C14F9H12N3O6
+PO  .1663764648627734 
+A1  489.250
+A3  CaOy
+A4  100-10 g
+A5  24.7
+A11 8512-211
+IN 8     
+FL CANCERF4.str
+NM 5-(alfa-aminohexaftorisopropyl)-beta-2'-desoxi-uridin              
+MF C14F9H12N3O6
+PO  .1663764648627734 
+A1  489.250   
+A3  CaOy      
+A4  100-10 g  
+A5  32.1      
+A11 8512-212  
+IN 9     
+FL CANCERF4.str
+NM N-(2'dezoxi-alfa-D-ribofuranozyl)-5-tetraftoruracyl                
+MF C12F4H14N2O5
+PO  .1845389843365795 
+A1  342.246   
+A3  CaOy      
+A4  100 g        
+A5  43        
+A11 7700-175  
+IN 10    
+FL CANCERF4.str
+NM N-(2'-dezoxi-beta-D-ribofuranozyl)-5-tetraftorpropyluracyl 
+MF C12F4H14N2O5
+PO  .1845389843365795 
+A1  342.246   
+A3  CaOy      
+A4  100 g     
+A5  56        
+A11 7700-174  
+IN 11    
+FL CANCERF4.str
+NM N-(2'-dezoxi-beta-D-ribofuranozyl)-5-triftorpropyluracyl          
+MF C12F3H15N2O5
+PO  .1911880022698156 
+A1  324       
+A3  CaOy      
+A4  100mkg/ml 
+A5  65
+A11 7702-029  
+IN 12    
+FL CANCERF4.str
+NM N-(2'-dezoxi-beta-D-ribofuranozyl)-5-triftorethoximethykuracyl     
+MF C12F3H15N2O6
+PO  .1875866546882953 
+A1  430.255   
+A3  CaOy      
+A4  100 g/ml  
+A5  22        
+A11 7701-021  
+IN 13    
+FL CANCERF4.str
+NM 2-(2-hydroxiphenyl)-5-(4-ftorphenyl)-1,3,4-tiadiazolyn-2           
+MF C14FH11N2OS
+PO  .1879805578076769 
+A1  274.312   
+A2  115-7     
+A3  CaOy      
+A4  1x10-4    
+A5  16        
+A11 5221287   
+IN 14    
+FL CANCERF4.str
+NM 2-(2-ftorbenziliden)hydrozono-3-acetylaminotiazolidinon-4   
+MF C12FH11N4O2S
+PO  .1884564917642608 
+A1  294.3032  
+A3  CaOy      
+A4  10-4      
+A5  11        
+A11 5121287   
+IN 15    
+FL CANCERF4.str
+NM 2-(4-ftorbenziliden)hydrozono-3-acetylaminotiazolidinon-4    
+MF C12FH11N4O2S
+PO  .1884022318522219 
+A1  294.30    
+A3  CaOy      
+A4  10-4      
+A5  2          
+A11 5111287   
+IN 16    
+FL CANCERF4.str
+NM 2-tioxo-4-[(2-ftorbenziliden)hydrozono]tiazolidin    
+MF C10FH8N3S2
+PO  .1774311806970488 
+A1  253.3125  
+A2  172       
+A3  CaOy      
+A4  10-4      
+A5  84        
+A11 5091287   
+IN 17    
+FL CANCERF4.str
+NM 2-tioxo-4-[(4-ftorbenziliden)hydrozono]tiazolidin     
+MF C10FH8N3S2
+PO  .1773633558362733 
+A1  253.3125  
+A2  206       
+A3  CaOy      
+A4  10-4      
+A5  83        
+A11 5081287   
+IN 18    
+FL CANCERF4.str
+NM N-[2,2-dichlor-1-(p-ftorphenyl)benzamid                            
+MF C15Cl2FH12NO
+PO  .1864776236750976 
+A1  312.171   
+A2  163       
+A3  CaOy      
+A4  10-4      
+A5  17        
+A11 4881287   
+IN 19    
+FL CANCERF4.str
+NM [(4-nitro-3-triftormethylanilino)hydroximethyl]phenylketon         
+MF C15F3H11N2O4
+PO  .1797340734359268 
+A1  340.2576  
+A2  166       
+A3  CaOy      
+A4  10-4      
+A5  4          
+A11 4861287   
+IN 20    
+FL CANCERF4.str
+NM dibrom, nitrophenylester,N-[trichlor-(p-ftorphenyl),carbamilic acid
+MF Br2C15Cl3FH8N2O4
+PO  .1556553223899925 
+A1  565.40    
+A2  126-8     
+A3  CaOy      
+A4  10-4      
+A5  49        
+A11 4851287   
+IN 21    
+FL CANCERF4.str
+NM aminobenzolsulphamid,p-methylphenyl, pirimidin                     
+MF C18F3H15N4O2S
+PO  .1863089505274249 
+A1  408.398   
+A2  218-219   
+A3  CaOy      
+A4  10-4      
+A5  0          
+A11 4771287   
+IN 22    
+FL CANCERF4.str
+NM N-piperidino, phenyl, triftiorbuten-3-on-2                         
+MF C15F3H16NO
+PO  .2108600449059338 
+A1  283.3     
+A2  139       
+A3  CaOy      
+A4  10-4      
+A5  0          
+A11 4761287
+IN 23    
+FL CANCERF4.str
+NM 1-phenyl-4,4,4-triftor-2,3-epoxibutanon-1 
+MF C10F3H7O2
+PO  .1820362208393189 
+A1  216.159   
+A2  34        
+A3  CaOy      
+A4  10-4      
+A5  0          
+A11 4741287   
+IN 24    
+FL CANCERF4.str
+NM 1-(4-nitrobenzoil)-triftormethyloxiran                             
+MF C10F3H6NO4
+PO  .1719165195307693 
+A1  261.1559  
+A2  78        
+A3  CaOy      
+A4  10-4      
+A5  78.4      
+A11 4731287   
+IN 25    
+FL CANCERF4.str
+NM 1-phenyl-3-perftorbutyl-2,3-epoxipropanon-1                        
+MF C13F9H7O2
+PO  .1651849397619356 
+A1  366.2     
+A2  42-43     
+A3  CaOy      
+A4  10-4      
+A5  0          
+A11 4751287   
+IN 26    
+FL CANCERF4.str
+NM 4-(morpholino)-1.1.1-triftorpenten-3-on-2                          
+MF C9F3H12NO2
+PO  .2076991092316081 
+A1  223.2     
+A2  96        
+A3  CaOy      
+A4  10-4      
+A5  0          
+A11 4721287   
+IN 27    
+FL CANCERF4.str
+NM 4-(4-ftorbenziliden)-hydrozonoselenazolidinon-2                    
+MF C10FH8N3OSe
+PO  .1791246099487405 
+A1  284.1515  
+A2  190       
+A3  CaOy      
+A4  10-4      
+A5  0          
+A11 4111287   
+IN 28    
+FL CANCERF4.str
+NM nitrophenylilen,ftorquinolin,phenylacetamido,penicillanic acid     
+MF C34FH28N5O7S
+PO  .1949657529619242 
+A1  669.6829  
+A3  CaOy      
+A4  0.5x10-4  
+A5  30        
+A11 4351287   
