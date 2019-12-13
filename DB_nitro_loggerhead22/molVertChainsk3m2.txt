@@ -1,0 +1,713 @@
+1:
+C_1s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+2:
+CL1s*C_4s*CL1s*: 3
+CL1s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+3:
+C_3s*N_3d*O_1d*: 4
+F_1s*C_3s*N_3d*: 2
+N_3d*C_3s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+4:
+CL1s*C_3s*N_3d*: 2
+C_3s*N_3d*O_1d*: 4
+N_3d*C_3s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+5:
+CL1s*C_4s*CL1s*: 1
+CL1s*C_4s*N_3d*: 4
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+6:
+CL1s*C_4s*F_1s*: 1
+CL1s*C_4s*N_3d*: 2
+C_4s*N_3d*O_1d*: 4
+F_1s*C_4s*N_3d*: 2
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+7:
+BR1s*C_4s*F_1s*: 1
+BR1s*C_4s*N_3d*: 2
+C_4s*N_3d*O_1d*: 4
+F_1s*C_4s*N_3d*: 2
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+8:
+C_4s*N_3d*O_1d*: 4
+F_1s*C_4s*I_1s*: 1
+F_1s*C_4s*N_3d*: 2
+I_1s*C_4s*N_3d*: 2
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+9:
+C_4s*N_3d*O_1d*: 4
+F_1s*C_4s*F_1s*: 1
+F_1s*C_4s*N_3d*: 4
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+10:
+C_3s*N_3d*O_1d*: 6
+N_3d*C_3s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+11:
+C_4s*N_3d*O_1d*: 4
+C_4s*N_3s*F_1s*: 2
+F_1s*C_4s*N_3d*: 2
+F_1s*C_4s*N_3s*: 1
+F_1s*N_3s*F_1s*: 1
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*N_3s*: 2
+O_1d*N_3d*O_1d*: 2
+12:
+C_4s*N_3d*O_1d*: 6
+F_1s*C_4s*N_3d*: 3
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+13:
+CL1s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+14:
+BR1s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+15:
+C_4s*N_3d*O_1d*: 6
+I_1s*C_4s*N_3d*: 3
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+16:
+C_4s*N_3d*O_1d*: 8
+N_3d*C_4s*N_3d*: 6
+O_1d*N_3d*O_1d*: 4
+17:
+C_4s*N_3d*O_1d*: 6
+C_4s*N_3s*F_1s*: 2
+F_1s*N_3s*F_1s*: 1
+N_3d*C_4s*N_3d*: 3
+N_3d*C_4s*N_3s*: 3
+O_1d*N_3d*O_1d*: 3
+18:
+CL1s*C_4s*CL1s*: 1
+CL1s*C_4s*C_1s*: 2
+CL1s*C_4s*N_3d*: 2
+C_1s*C_4s*N_3d*: 1
+C_4s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+19:
+C_1s*C_4s*F_1s*: 1
+C_1s*C_4s*N_3d*: 2
+C_4s*N_3d*O_1d*: 4
+F_1s*C_4s*N_3d*: 2
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+20:
+CL1s*C_4s*C_1s*: 1
+CL1s*C_4s*N_3d*: 2
+C_1s*C_4s*N_3d*: 2
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+21:
+BR1s*C_4s*C_1s*: 1
+BR1s*C_4s*N_3d*: 2
+C_1s*C_4s*N_3d*: 2
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+22:
+C_1s*C_3s*N_3d*: 2
+C_3s*N_3d*O_1d*: 4
+N_3d*C_3s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+23:
+C_1s*C_4s*N_3d*: 2
+C_1s*C_4s*N_3s*: 1
+C_4s*N_3d*O_1d*: 4
+C_4s*N_3s*F_1s*: 2
+F_1s*N_3s*F_1s*: 1
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*N_3s*: 2
+O_1d*N_3d*O_1d*: 2
+24:
+C_1s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+25:
+C_1s*S_2s*C_4s*: 1
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+N_3d*C_4s*S_2s*: 3
+O_1d*N_3d*O_1d*: 3
+26:
+C_4s*C_4s*F_1s*: 2
+C_4s*C_4s*N_3d*: 4
+C_4s*N_3d*O_1d*: 8
+F_1s*C_4s*N_3d*: 4
+N_3d*C_4s*N_3d*: 2
+O_1d*N_3d*O_1d*: 4
+27:
+C_4s*C_4s*F_1s*: 1
+C_4s*C_4s*N_3d*: 5
+C_4s*N_3d*O_1d*: 10
+F_1s*C_4s*N_3d*: 2
+N_3d*C_4s*N_3d*: 4
+O_1d*N_3d*O_1d*: 5
+28:
+C_4s*C_4s*N_3d*: 6
+C_4s*N_3d*O_1d*: 12
+N_3d*C_4s*N_3d*: 6
+O_1d*N_3d*O_1d*: 6
+29:
+CL1s*C_4s*CL1s*: 1
+CL1s*C_4s*C_2s*: 2
+CL1s*C_4s*N_3d*: 2
+C_1s*C_2s*C_4s*: 1
+C_2s*C_4s*N_3d*: 1
+C_4s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+30:
+C_1s*C_2s*C_2s*: 1
+C_2s*C_2s*N_3d*: 1
+C_2s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+31:
+C_1s*C_4s*C_1s*: 1
+C_1s*C_4s*N_3d*: 4
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+32:
+C_1s*C_4s*C_1s*: 1
+C_1s*C_4s*N_3d*: 4
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+33:
+C_1s*C_4s*N_3d*: 2
+C_1s*C_4s*S_2s*: 1
+C_1s*S_2s*C_4s*: 1
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*S_2s*: 2
+O_1d*N_3d*O_1d*: 2
+34:
+C_1s*C_4s*N_3d*: 2
+C_1s*C_4s*S_4d*: 1
+C_1s*S_4d*C_4s*: 1
+C_1s*S_4d*O_1d*: 2
+C_4s*N_3d*O_1d*: 4
+C_4s*S_4d*O_1d*: 2
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*S_4d*: 2
+O_1d*N_3d*O_1d*: 2
+O_1d*S_4d*O_1d*: 1
+35:
+C_1s*C_2s*C_4s*: 1
+C_2s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+36:
+BR1s*C_2s*C_2s*: 1
+C_2s*C_2s*C_4s*: 1
+C_2s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+37:
+C_2s*C_2s*C_4s*: 1
+C_2s*C_2s*N_3d*: 1
+C_2s*C_4s*N_3d*: 3
+C_2s*N_3d*O_1d*: 2
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 4
+38:
+C_1s*C_2s*C_2s*: 1
+C_2s*C_2s*C_3s*: 1
+C_2s*C_3s*N_3d*: 2
+C_3s*N_3d*O_1d*: 4
+N_3d*C_3s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+39:
+C_2s*C_2s*C_3s*: 2
+C_2s*C_3s*C_2s*: 1
+C_2s*C_3s*C_4s*: 2
+C_3s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+40:
+C_1s*C_2s*C_2s*: 1
+C_2s*C_2s*C_4s*: 1
+C_2s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+41:
+C_2s*C_2s*C_2t*: 1
+C_2s*C_2s*C_4s*: 1
+C_2s*C_2t*N_1t*: 1
+C_2s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+42:
+C_1s*C_3d*C_2s*: 1
+C_1s*C_3d*O_1d*: 1
+C_2s*C_2s*C_3d*: 1
+C_2s*C_2s*C_4s*: 1
+C_2s*C_3d*O_1d*: 1
+C_2s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+43:
+C_1s*O_2s*C_3d*: 1
+C_2s*C_2s*C_3d*: 1
+C_2s*C_2s*C_4s*: 1
+C_2s*C_3d*O_1d*: 1
+C_2s*C_3d*O_2s*: 1
+C_2s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*C_3d*O_2s*: 1
+O_1d*N_3d*O_1d*: 3
+44:
+C_1s*C_4s*C_2s*: 1
+C_1s*C_4s*N_3s*: 2
+C_2s*C_2s*C_4s*: 2
+C_2s*C_4s*F_1s*: 1
+C_2s*C_4s*N_3d*: 2
+C_2s*C_4s*N_3s*: 2
+C_4s*N_3d*O_1d*: 4
+C_4s*N_3s*F_1s*: 4
+F_1s*C_4s*N_3d*: 2
+F_1s*N_3s*F_1s*: 2
+N_3d*C_4s*N_3d*: 1
+N_3s*C_4s*N_3s*: 1
+O_1d*N_3d*O_1d*: 2
+45:
+C_1s*C_4s*C_2s*: 1
+C_1s*C_4s*N_3s*: 2
+C_2s*C_2s*C_4s*: 2
+C_2s*C_4s*N_3d*: 3
+C_2s*C_4s*N_3s*: 2
+C_4s*N_3d*O_1d*: 6
+C_4s*N_3s*F_1s*: 4
+F_1s*N_3s*F_1s*: 2
+N_3d*C_4s*N_3d*: 3
+N_3s*C_4s*N_3s*: 1
+O_1d*N_3d*O_1d*: 3
+46:
+C_1s*C_3d*C_2s*: 1
+C_1s*C_3d*O_1d*: 1
+C_1s*C_4s*C_1s*: 1
+C_1s*C_4s*C_2s*: 2
+C_1s*C_4s*C_4s*: 2
+C_2s*C_3d*O_1d*: 1
+C_2s*C_4s*C_4s*: 1
+C_3d*C_2s*C_4s*: 1
+C_4s*C_4s*N_3d*: 3
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+O_1d*N_3d*O_1d*: 3
+47:
+C_2d*C_2d*C_2d*: 3
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*S_2s*: 2
+C_3d*S_2s*C_4s*: 1
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+N_3d*C_4s*S_2s*: 3
+O_1d*N_3d*O_1d*: 3
+48:
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*C_3d*: 2
+C_2d*C_3d*N_3d*: 3
+C_2d*C_3d*S_2s*: 1
+C_3d*C_2d*C_3d*: 1
+C_3d*C_3d*N_3d*: 1
+C_3d*C_3d*S_2s*: 1
+C_3d*N_3d*O_1d*: 4
+C_3d*S_2s*C_4s*: 1
+C_4s*N_3d*O_1d*: 6
+N_3d*C_4s*N_3d*: 3
+N_3d*C_4s*S_2s*: 3
+O_1d*N_3d*O_1d*: 5
+49:
+C_1s*C_4s*N_3d*: 2
+C_1s*C_4s*S_4d*: 1
+C_2d*C_2d*C_2d*: 3
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*S_4d*: 2
+C_3d*S_4d*C_4s*: 1
+C_3d*S_4d*O_1d*: 2
+C_4s*N_3d*O_1d*: 4
+C_4s*S_4d*O_1d*: 2
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*S_4d*: 2
+O_1d*N_3d*O_1d*: 2
+O_1d*S_4d*O_1d*: 1
+50:
+C_1s*C_4s*N_3d*: 2
+C_1s*C_4s*S_2s*: 1
+C_2d*C_2d*C_2d*: 3
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*S_2s*: 2
+C_3d*S_2s*C_4s*: 1
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*S_2s*: 2
+O_1d*N_3d*O_1d*: 2
+51:
+C_1s*C_4s*N_3d*: 2
+C_1s*C_4s*S_2s*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*C_3d*: 2
+C_2d*C_3d*N_3d*: 3
+C_2d*C_3d*S_2s*: 1
+C_3d*C_2d*C_3d*: 1
+C_3d*C_3d*N_3d*: 1
+C_3d*C_3d*S_2s*: 1
+C_3d*N_3d*O_1d*: 4
+C_3d*S_2s*C_4s*: 1
+C_4s*N_3d*O_1d*: 4
+N_3d*C_4s*N_3d*: 1
+N_3d*C_4s*S_2s*: 2
+O_1d*N_3d*O_1d*: 4
+52:
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*N_3d*: 2
+C_2d*N_2d*N_2s*: 1
+C_2d*N_2s*N_2d*: 1
+C_3d*C_2d*N_2d*: 1
+C_3d*C_2d*N_2s*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+53:
+C_1s*N_3s*C_2d*: 1
+C_1s*N_3s*N_2d*: 1
+C_2d*N_2d*C_3d*: 1
+C_2d*N_3s*N_2d*: 1
+C_3d*N_2d*N_3s*: 1
+C_3d*N_3d*O_1d*: 2
+N_2d*C_2d*N_3s*: 1
+N_2d*C_3d*N_2d*: 1
+N_2d*C_3d*N_3d*: 2
+O_1d*N_3d*O_1d*: 1
+54:
+C_2d*C_2d*C_2d*: 2
+C_2d*C_2d*C_3d*: 1
+C_2d*C_2d*N_2d*: 1
+C_2d*C_3d*N_2d*: 1
+C_2d*C_3d*N_3d*: 1
+C_2d*N_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+N_2d*C_3d*N_3d*: 1
+O_1d*N_3d*O_1d*: 1
+55:
+C_2d*C_2d*C_3d*: 2
+C_2d*C_2d*N_2d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*N_3d*: 2
+C_2d*N_2d*C_2d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+56:
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*N_1s*: 1
+C_2d*C_3d*N_2d*: 2
+C_2d*C_3d*N_3d*: 1
+C_3d*N_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+N_1s*C_3d*N_2d*: 1
+N_2d*C_3d*N_3d*: 1
+O_1d*N_3d*O_1d*: 1
+57:
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 4
+C_2d*N_2d*C_2d*: 1
+C_3d*C_2d*C_3d*: 1
+C_3d*C_2d*N_2d*: 2
+C_3d*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+58:
+C_2d*C_2d*C_2d*: 3
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+59:
+CL1s*C_3d*C_2d*: 2
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+60:
+CL1s*C_3d*C_2d*: 2
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+61:
+CL1s*C_3d*C_2d*: 1
+CL1s*C_3d*C_3d*: 1
+C_2d*C_2d*C_2d*: 2
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_3d*: 2
+C_2d*C_3d*N_3d*: 1
+C_3d*C_3d*N_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+62:
+BR1s*C_3d*C_2d*: 2
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+63:
+BR1s*C_3d*C_2d*: 2
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+64:
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*I_1s*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+65:
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_2d*C_3d*O_1s*: 2
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+66:
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_1s*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+67:
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_1s*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+68:
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 4
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+69:
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 4
+C_3d*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+70:
+C_2d*C_3d*C_2d*: 3
+C_2d*C_3d*N_3d*: 6
+C_3d*C_2d*C_3d*: 3
+C_3d*N_3d*O_1d*: 6
+O_1d*N_3d*O_1d*: 3
+71:
+C_1s*C_3d*C_2d*: 2
+C_2d*C_2d*C_2d*: 1
+C_2d*C_2d*C_3d*: 2
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+72:
+C_1s*C_3d*C_2d*: 2
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+73:
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 4
+C_2d*C_3d*N_3d*: 2
+C_3d*C_2d*O_1d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+74:
+C_1s*C_3d*C_3d*: 1
+C_1s*C_3d*O_1d*: 1
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*C_3d*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*C_3d*O_1d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+75:
+C_1s*C_3d*N_2s*: 1
+C_1s*C_3d*O_1d*: 1
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 2
+C_2d*C_3d*N_2s*: 2
+C_2d*C_3d*N_3d*: 2
+C_3d*N_2s*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+N_2s*C_3d*O_1d*: 1
+O_1d*N_3d*O_1d*: 1
+76:
+C_2d*C_2d*C_2d*: 3
+C_2d*C_2d*C_3d*: 6
+C_2d*C_3d*C_2d*: 3
+C_2d*C_3d*C_3d*: 4
+C_2d*C_3d*N_3d*: 2
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+77:
+C_2d*C_2d*C_2d*: 4
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 3
+C_2d*C_3d*C_3d*: 4
+C_2d*C_3d*N_3d*: 2
+C_3d*C_2d*C_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+78:
+C_2d*C_2d*C_2d*: 5
+C_2d*C_2d*C_3d*: 4
+C_2d*C_3d*C_2d*: 1
+C_2d*C_3d*C_3d*: 5
+C_2d*C_3d*N_3d*: 1
+C_3d*C_3d*C_3d*: 1
+C_3d*C_3d*N_3d*: 1
+C_3d*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+79:
+C_1s*N_3s*N_3d*: 2
+N_3d*N_3s*N_3d*: 1
+N_3s*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+80:
+C_1s*N_3s*C_1s*: 1
+C_1s*N_3s*N_3d*: 2
+N_3s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+81:
+C_1s*C_2s*N_3s*: 1
+C_2s*N_3s*N_3d*: 2
+N_3d*N_3s*N_3d*: 1
+N_3s*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+82:
+C_1s*C_2s*C_2s*: 1
+C_2s*C_2s*N_3s*: 1
+C_2s*N_3s*N_3d*: 2
+N_3d*N_3s*N_3d*: 1
+N_3s*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+83:
+C_2s*N_3s*C_2s*: 3
+C_2s*N_3s*N_3d*: 6
+N_3s*C_2s*N_3s*: 3
+N_3s*N_3d*O_1d*: 6
+O_1d*N_3d*O_1d*: 3
+84:
+C_2s*C_2s*N_3s*: 2
+C_2s*C_2s*O_2s*: 2
+C_2s*N_3s*C_2s*: 1
+C_2s*N_3s*N_3d*: 2
+C_2s*O_2s*C_2s*: 1
+N_3s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+85:
+C_1s*C_2s*N_3s*: 2
+C_2s*N_3s*C_2s*: 1
+C_2s*N_3s*N_3d*: 2
+N_3s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+86:
+C_1s*C_2s*C_2s*: 1
+C_2s*C_2s*C_2s*: 1
+C_2s*C_2s*N_3s*: 1
+C_2s*N_3s*N_3d*: 2
+N_3d*N_3s*N_3d*: 1
+N_3s*N_3d*O_1d*: 4
+O_1d*N_3d*O_1d*: 2
+87:
+C_2s*C_2s*C_2s*: 3
+C_2s*C_2s*N_3s*: 2
+C_2s*N_3s*C_2s*: 1
+C_2s*N_3s*N_3d*: 2
+N_3s*N_3d*O_1d*: 2
+O_1d*N_3d*O_1d*: 1
+88:
+C_1s*O_2s*N_3d*: 1
+O_1d*N_3d*O_1d*: 1
+O_1d*N_3d*O_2s*: 2
+89:
+C_2s*N_3s*C_2s*: 4
+C_2s*N_3s*N_3d*: 8
+N_3s*C_2s*N_3s*: 4
+N_3s*N_3d*O_1d*: 8
+O_1d*N_3d*O_1d*: 4
+90:
+C_1s*C_2s*O_2s*: 1
+C_2s*O_2s*N_3d*: 1
+O_1d*N_3d*O_1d*: 1
+O_1d*N_3d*O_2s*: 2
+91:
+C_2s*C_2s*O_2s*: 2
+C_2s*O_2s*N_3d*: 2
+O_1d*N_3d*O_1d*: 2
+O_1d*N_3d*O_2s*: 4
+92:
+C_1s*C_3s*C_2s*: 1
+C_1s*C_3s*O_2s*: 1
+C_2s*C_3s*O_2s*: 1
+C_2s*O_2s*N_3d*: 1
+C_3s*C_2s*O_2s*: 1
+C_3s*O_2s*N_3d*: 1
+O_1d*N_3d*O_1d*: 2
+O_1d*N_3d*O_2s*: 4
+93:
+C_2d*C_2d*C_2s*: 2
+C_2d*C_2s*O_2s*: 2
+C_2s*O_2s*N_3d*: 2
+O_1d*N_3d*O_1d*: 2
+O_1d*N_3d*O_2s*: 4

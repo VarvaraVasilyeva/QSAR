@@ -1,0 +1,714 @@
+1:
+C_1scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+2:
+CL1scC_4scCL1sc: 3
+CL1scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+3:
+C_3scN_3dcO_1dc: 4
+F_1scC_3scN_3dc: 2
+N_3dcC_3scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+4:
+CL1scC_3scN_3dc: 2
+C_3scN_3dcO_1dc: 4
+N_3dcC_3scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+5:
+CL1scC_4scCL1sc: 1
+CL1scC_4scN_3dc: 4
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+6:
+CL1scC_4scF_1sc: 1
+CL1scC_4scN_3dc: 2
+C_4scN_3dcO_1dc: 4
+F_1scC_4scN_3dc: 2
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+7:
+BR1scC_4scF_1sc: 1
+BR1scC_4scN_3dc: 2
+C_4scN_3dcO_1dc: 4
+F_1scC_4scN_3dc: 2
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+8:
+C_4scN_3dcO_1dc: 4
+F_1scC_4scI_1sc: 1
+F_1scC_4scN_3dc: 2
+I_1scC_4scN_3dc: 2
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+9:
+C_4scN_3dcO_1dc: 4
+F_1scC_4scF_1sc: 1
+F_1scC_4scN_3dc: 4
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+10:
+C_3scN_3dcO_1dc: 6
+N_3dcC_3scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+11:
+C_4scN_3dcO_1dc: 4
+C_4scN_3scF_1sc: 2
+F_1scC_4scN_3dc: 2
+F_1scC_4scN_3sc: 1
+F_1scN_3scF_1sc: 1
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scN_3sc: 2
+O_1dcN_3dcO_1dc: 2
+12:
+C_4scN_3dcO_1dc: 6
+F_1scC_4scN_3dc: 3
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+13:
+CL1scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+14:
+BR1scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+15:
+C_4scN_3dcO_1dc: 6
+I_1scC_4scN_3dc: 3
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+16:
+C_4scN_3dcO_1dc: 8
+N_3dcC_4scN_3dc: 6
+O_1dcN_3dcO_1dc: 4
+17:
+C_4scN_3dcO_1dc: 6
+C_4scN_3scF_1sc: 2
+F_1scN_3scF_1sc: 1
+N_3dcC_4scN_3dc: 3
+N_3dcC_4scN_3sc: 3
+O_1dcN_3dcO_1dc: 3
+18:
+CL1scC_4scCL1sc: 1
+CL1scC_4scC_1sc: 2
+CL1scC_4scN_3dc: 2
+C_1scC_4scN_3dc: 1
+C_4scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+19:
+C_1scC_4scF_1sc: 1
+C_1scC_4scN_3dc: 2
+C_4scN_3dcO_1dc: 4
+F_1scC_4scN_3dc: 2
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+20:
+CL1scC_4scC_1sc: 1
+CL1scC_4scN_3dc: 2
+C_1scC_4scN_3dc: 2
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+21:
+BR1scC_4scC_1sc: 1
+BR1scC_4scN_3dc: 2
+C_1scC_4scN_3dc: 2
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+22:
+C_1scC_3scN_3dc: 2
+C_3scN_3dcO_1dc: 4
+N_3dcC_3scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+23:
+C_1scC_4scN_3dc: 2
+C_1scC_4scN_3sc: 1
+C_4scN_3dcO_1dc: 4
+C_4scN_3scF_1sc: 2
+F_1scN_3scF_1sc: 1
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scN_3sc: 2
+O_1dcN_3dcO_1dc: 2
+24:
+C_1scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+25:
+C_1scS_2scC_4sc: 1
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+N_3dcC_4scS_2sc: 3
+O_1dcN_3dcO_1dc: 3
+26:
+C_4scC_4scF_1sc: 2
+C_4scC_4scN_3dc: 4
+C_4scN_3dcO_1dc: 8
+F_1scC_4scN_3dc: 4
+N_3dcC_4scN_3dc: 2
+O_1dcN_3dcO_1dc: 4
+27:
+C_4scC_4scF_1sc: 1
+C_4scC_4scN_3dc: 5
+C_4scN_3dcO_1dc: 10
+F_1scC_4scN_3dc: 2
+N_3dcC_4scN_3dc: 4
+O_1dcN_3dcO_1dc: 5
+28:
+C_4scC_4scN_3dc: 6
+C_4scN_3dcO_1dc: 12
+N_3dcC_4scN_3dc: 6
+O_1dcN_3dcO_1dc: 6
+29:
+CL1scC_4scCL1sc: 1
+CL1scC_4scC_2sc: 2
+CL1scC_4scN_3dc: 2
+C_1scC_2scC_4sc: 1
+C_2scC_4scN_3dc: 1
+C_4scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+30:
+C_1scC_2scC_2sc: 1
+C_2scC_2scN_3dc: 1
+C_2scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+31:
+C_1scC_4scC_1sc: 1
+C_1scC_4scN_3dc: 4
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+32:
+C_1scC_4scC_1sc: 1
+C_1scC_4scN_3dc: 4
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+33:
+C_1scC_4scN_3dc: 2
+C_1scC_4scS_2sc: 1
+C_1scS_2scC_4sc: 1
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scS_2sc: 2
+O_1dcN_3dcO_1dc: 2
+34:
+C_1scC_4scN_3dc: 2
+C_1scC_4scS_4dc: 1
+C_1scS_4dcC_4sc: 1
+C_1scS_4dcO_1dc: 2
+C_4scN_3dcO_1dc: 4
+C_4scS_4dcO_1dc: 2
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scS_4dc: 2
+O_1dcN_3dcO_1dc: 2
+O_1dcS_4dcO_1dc: 1
+35:
+C_1scC_2scC_4sc: 1
+C_2scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+36:
+BR1scC_2scC_2sc: 1
+C_2scC_2scC_4sc: 1
+C_2scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+37:
+C_2scC_2scC_4sc: 1
+C_2scC_2scN_3dc: 1
+C_2scC_4scN_3dc: 3
+C_2scN_3dcO_1dc: 2
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 4
+38:
+C_1scC_2scC_2sc: 1
+C_2scC_2scC_3sc: 1
+C_2scC_3scN_3dc: 2
+C_3scN_3dcO_1dc: 4
+N_3dcC_3scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+39:
+C_2srC_2srC_3ss: 2
+C_2srC_3ssC_2sr: 1
+C_2srC_3ssC_4sc: 2
+C_3ssC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+40:
+C_1scC_2scC_2sc: 1
+C_2scC_2scC_4sc: 1
+C_2scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+41:
+C_2scC_2scC_2tc: 1
+C_2scC_2scC_4sc: 1
+C_2scC_2tcN_1tc: 1
+C_2scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+42:
+C_1scC_3dcC_2sc: 1
+C_1scC_3dcO_1dc: 1
+C_2scC_2scC_3dc: 1
+C_2scC_2scC_4sc: 1
+C_2scC_3dcO_1dc: 1
+C_2scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+43:
+C_1scO_2scC_3dc: 1
+C_2scC_2scC_3dc: 1
+C_2scC_2scC_4sc: 1
+C_2scC_3dcO_1dc: 1
+C_2scC_3dcO_2sc: 1
+C_2scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcC_3dcO_2sc: 1
+O_1dcN_3dcO_1dc: 3
+44:
+C_1scC_4scC_2sc: 1
+C_1scC_4scN_3sc: 2
+C_2scC_2scC_4sc: 2
+C_2scC_4scF_1sc: 1
+C_2scC_4scN_3dc: 2
+C_2scC_4scN_3sc: 2
+C_4scN_3dcO_1dc: 4
+C_4scN_3scF_1sc: 4
+F_1scC_4scN_3dc: 2
+F_1scN_3scF_1sc: 2
+N_3dcC_4scN_3dc: 1
+N_3scC_4scN_3sc: 1
+O_1dcN_3dcO_1dc: 2
+45:
+C_1scC_4scC_2sc: 1
+C_1scC_4scN_3sc: 2
+C_2scC_2scC_4sc: 2
+C_2scC_4scN_3dc: 3
+C_2scC_4scN_3sc: 2
+C_4scN_3dcO_1dc: 6
+C_4scN_3scF_1sc: 4
+F_1scN_3scF_1sc: 2
+N_3dcC_4scN_3dc: 3
+N_3scC_4scN_3sc: 1
+O_1dcN_3dcO_1dc: 3
+46:
+C_1scC_3dcC_2sc: 1
+C_1scC_3dcO_1dc: 1
+C_1scC_4scC_1sc: 1
+C_1scC_4scC_2sc: 2
+C_1scC_4scC_4sc: 2
+C_2scC_3dcO_1dc: 1
+C_2scC_4scC_4sc: 1
+C_3dcC_2scC_4sc: 1
+C_4scC_4scN_3dc: 3
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+O_1dcN_3dcO_1dc: 3
+47:
+C_2drC_2drC_2dr: 3
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsS_2sc: 2
+C_3dsS_2scC_4sc: 1
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+N_3dcC_4scS_2sc: 3
+O_1dcN_3dcO_1dc: 3
+48:
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsC_3ds: 2
+C_2drC_3dsN_3dc: 3
+C_2drC_3dsS_2sc: 1
+C_3dsC_2drC_3ds: 1
+C_3dsC_3dsN_3dc: 1
+C_3dsC_3dsS_2sc: 1
+C_3dsN_3dcO_1dc: 4
+C_3dsS_2scC_4sc: 1
+C_4scN_3dcO_1dc: 6
+N_3dcC_4scN_3dc: 3
+N_3dcC_4scS_2sc: 3
+O_1dcN_3dcO_1dc: 5
+49:
+C_1scC_4scN_3dc: 2
+C_1scC_4scS_4dc: 1
+C_2drC_2drC_2dr: 3
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsS_4dc: 2
+C_3dsS_4dcC_4sc: 1
+C_3dsS_4dcO_1dc: 2
+C_4scN_3dcO_1dc: 4
+C_4scS_4dcO_1dc: 2
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scS_4dc: 2
+O_1dcN_3dcO_1dc: 2
+O_1dcS_4dcO_1dc: 1
+50:
+C_1scC_4scN_3dc: 2
+C_1scC_4scS_2sc: 1
+C_2drC_2drC_2dr: 3
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsS_2sc: 2
+C_3dsS_2scC_4sc: 1
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scS_2sc: 2
+O_1dcN_3dcO_1dc: 2
+51:
+C_1scC_4scN_3dc: 2
+C_1scC_4scS_2sc: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsC_3ds: 2
+C_2drC_3dsN_3dc: 3
+C_2drC_3dsS_2sc: 1
+C_3dsC_2drC_3ds: 1
+C_3dsC_3dsN_3dc: 1
+C_3dsC_3dsS_2sc: 1
+C_3dsN_3dcO_1dc: 4
+C_3dsS_2scC_4sc: 1
+C_4scN_3dcO_1dc: 4
+N_3dcC_4scN_3dc: 1
+N_3dcC_4scS_2sc: 2
+O_1dcN_3dcO_1dc: 4
+52:
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsN_3dc: 2
+C_2drN_2drN_2sr: 1
+C_2drN_2srN_2dr: 1
+C_3dsC_2drN_2dr: 1
+C_3dsC_2drN_2sr: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+53:
+C_1scN_3ssC_2dr: 1
+C_1scN_3ssN_2dr: 1
+C_2drN_2drC_3ds: 1
+C_2drN_3ssN_2dr: 1
+C_3dsN_2drN_3ss: 1
+C_3dsN_3dcO_1dc: 2
+N_2drC_2drN_3ss: 1
+N_2drC_3dsN_2dr: 1
+N_2drC_3dsN_3dc: 2
+O_1dcN_3dcO_1dc: 1
+54:
+C_2drC_2drC_2dr: 2
+C_2drC_2drC_3ds: 1
+C_2drC_2drN_2dr: 1
+C_2drC_3dsN_2dr: 1
+C_2drC_3dsN_3dc: 1
+C_2drN_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+N_2drC_3dsN_3dc: 1
+O_1dcN_3dcO_1dc: 1
+55:
+C_2drC_2drC_3ds: 2
+C_2drC_2drN_2dr: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsN_3dc: 2
+C_2drN_2drC_2dr: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+56:
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsN_1sc: 1
+C_2drC_3dsN_2dr: 2
+C_2drC_3dsN_3dc: 1
+C_3dsN_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+N_1scC_3dsN_2dr: 1
+N_2drC_3dsN_3dc: 1
+O_1dcN_3dcO_1dc: 1
+57:
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 4
+C_2drN_2drC_2dr: 1
+C_3dsC_2drC_3ds: 1
+C_3dsC_2drN_2dr: 2
+C_3dsN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+58:
+C_2drC_2drC_2dr: 3
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+59:
+CL1scC_3dsC_2dr: 2
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+60:
+CL1scC_3dsC_2dr: 2
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+61:
+CL1scC_3dsC_2dr: 1
+CL1scC_3dsC_3ds: 1
+C_2drC_2drC_2dr: 2
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_3ds: 2
+C_2drC_3dsN_3dc: 1
+C_3dsC_3dsN_3dc: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+62:
+BR1scC_3dsC_2dr: 2
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+63:
+BR1scC_3dsC_2dr: 2
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+64:
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsI_1sc: 2
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+65:
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_2drC_3dsO_1sc: 2
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+66:
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_1sc: 2
+C_2drC_3dsN_3dc: 2
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+67:
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_1sc: 2
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+68:
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 4
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+69:
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 4
+C_3dsN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+70:
+C_2drC_3dsC_2dr: 3
+C_2drC_3dsN_3dc: 6
+C_3dsC_2drC_3ds: 3
+C_3dsN_3dcO_1dc: 6
+O_1dcN_3dcO_1dc: 3
+71:
+C_1scC_3dsC_2dr: 2
+C_2drC_2drC_2dr: 1
+C_2drC_2drC_3ds: 2
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+72:
+C_1scC_3dsC_2dr: 2
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+73:
+C_2dcC_3dsC_2dr: 2
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_3dc: 2
+C_3dsC_2dcO_1dc: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+74:
+C_1scC_3dcC_3ds: 1
+C_1scC_3dcO_1dc: 1
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsC_3dc: 2
+C_2drC_3dsN_3dc: 2
+C_3dsC_3dcO_1dc: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+75:
+C_1scC_3dcN_2sc: 1
+C_1scC_3dcO_1dc: 1
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 2
+C_2drC_3dsN_2sc: 2
+C_2drC_3dsN_3dc: 2
+C_3dcN_2scC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+N_2scC_3dcO_1dc: 1
+O_1dcN_3dcO_1dc: 1
+76:
+C_2drC_2drC_2dr: 3
+C_2drC_2drC_3ds: 6
+C_2drC_3dsC_2dr: 3
+C_2drC_3dsC_3ds: 4
+C_2drC_3dsN_3dc: 2
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+77:
+C_2drC_2drC_2dr: 4
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 3
+C_2drC_3dsC_3ds: 4
+C_2drC_3dsN_3dc: 2
+C_3dsC_2drC_3ds: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+78:
+C_2drC_2drC_2dr: 5
+C_2drC_2drC_3ds: 4
+C_2drC_3dsC_2dr: 1
+C_2drC_3dsC_3ds: 5
+C_2drC_3dsN_3dc: 1
+C_3dsC_3dsC_3ds: 1
+C_3dsC_3dsN_3dc: 1
+C_3dsN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+79:
+C_1scN_3scN_3dc: 2
+N_3dcN_3scN_3dc: 1
+N_3scN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+80:
+C_1scN_3scC_1sc: 1
+C_1scN_3scN_3dc: 2
+N_3scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+81:
+C_1scC_2scN_3sc: 1
+C_2scN_3scN_3dc: 2
+N_3dcN_3scN_3dc: 1
+N_3scN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+82:
+C_1scC_2scC_2sc: 1
+C_2scC_2scN_3sc: 1
+C_2scN_3scN_3dc: 2
+N_3dcN_3scN_3dc: 1
+N_3scN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+83:
+C_2srN_3ssC_2sr: 3
+C_2srN_3ssN_3dc: 6
+N_3ssC_2srN_3ss: 3
+N_3ssN_3dcO_1dc: 6
+O_1dcN_3dcO_1dc: 3
+84:
+C_2srC_2srN_3ss: 2
+C_2srC_2srO_2sr: 2
+C_2srN_3ssC_2sr: 1
+C_2srN_3ssN_3dc: 2
+C_2srO_2srC_2sr: 1
+N_3ssN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+85:
+C_1scC_2scN_3sc: 2
+C_2scN_3scC_2sc: 1
+C_2scN_3scN_3dc: 2
+N_3scN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+86:
+C_1scC_2scC_2sc: 1
+C_2scC_2scC_2sc: 1
+C_2scC_2scN_3sc: 1
+C_2scN_3scN_3dc: 2
+N_3dcN_3scN_3dc: 1
+N_3scN_3dcO_1dc: 4
+O_1dcN_3dcO_1dc: 2
+87:
+C_2srC_2srC_2sr: 3
+C_2srC_2srN_3ss: 2
+C_2srN_3ssC_2sr: 1
+C_2srN_3ssN_3dc: 2
+N_3ssN_3dcO_1dc: 2
+O_1dcN_3dcO_1dc: 1
+88:
+C_1scO_2scN_3dc: 1
+O_1dcN_3dcO_1dc: 1
+O_1dcN_3dcO_2sc: 2
+89:
+C_2srN_3ssC_2sr: 4
+C_2srN_3ssN_3dc: 8
+N_3ssC_2srN_3ss: 4
+N_3ssN_3dcO_1dc: 8
+O_1dcN_3dcO_1dc: 4
+90:
+C_1scC_2scO_2sc: 1
+C_2scO_2scN_3dc: 1
+O_1dcN_3dcO_1dc: 1
+O_1dcN_3dcO_2sc: 2
+91:
+C_2scC_2scO_2sc: 2
+C_2scO_2scN_3dc: 2
+O_1dcN_3dcO_1dc: 2
+O_1dcN_3dcO_2sc: 4
+92:
+C_1scC_3scC_2sc: 1
+C_1scC_3scO_2sc: 1
+C_2scC_3scO_2sc: 1
+C_2scO_2scN_3dc: 1
+C_3scC_2scO_2sc: 1
+C_3scO_2scN_3dc: 1
+O_1dcN_3dcO_1dc: 2
+O_1dcN_3dcO_2sc: 4
+93:
+C_2dcC_2dcC_2sc: 2
+C_2dcC_2scO_2sc: 2
+C_2scO_2scN_3dc: 2
+O_1dcN_3dcO_1dc: 2
+O_1dcN_3dcO_2sc: 4
