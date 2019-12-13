@@ -1,0 +1,1 @@
+{C_1scC_1sc: 1, C_1scC_2sc: 101, C_1scC_3sc: 109, C_1scC_4sc: 78, C_2scC_2sc: 72, C_2scC_3sc: 80, C_2scC_4sc: 35, C_3scC_3sc: 17, C_3scC_4sc: 11, C_4scC_4sc: 2}

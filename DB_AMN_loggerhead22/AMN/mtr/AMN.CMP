@@ -1,0 +1,655 @@
+    4 <---- PickUp chain length 
+ TRUE <---- Code Atom Degree (0/1) 
+ TRUE <---- Code Atom Environment (0/1/2) 
+ TRUE <---- Code Bond  (0/1/2/3)
+    0    0 <---- Making O/N-Groups (0/1)
+    0 <---- Find Aromatic Bonds (0/1)
+
+ÄÄÄÄÄÂÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÂÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+ #N  ³  Max   ³  Min   ³ Middle ³  Chain
+ÄÄÄÄÄÅÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÅÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+  1  ³      1 ³      1 ³   1.00 ³BR1sc
+  2  ³      1 ³      1 ³   1.00 ³BR1scC 2sc
+  3  ³      1 ³      1 ³   1.00 ³BR1scC 2scC 3dc
+  4  ³      1 ³      1 ³   1.00 ³BR1scC 2scC 3dcC 4ss
+  5  ³      1 ³      1 ³   1.00 ³BR1scC 2scC 3dcO 1dc
+  6  ³      1 ³      1 ³   1.00 ³C 1dc
+  7  ³      1 ³      1 ³   1.00 ³C 1dcC 2dc
+  8  ³      1 ³      1 ³   1.00 ³C 1dcC 2dcC 2sc
+  9  ³      1 ³      1 ³   1.00 ³C 1dcC 2dcC 2scN 2sc
+ 10  ³      8 ³      1 ³   2.00 ³C 1sc
+ 11  ³      2 ³      1 ³   1.00 ³C 1scC 2sc
+ 12  ³      1 ³      1 ³   1.00 ³C 1scC 2scC 2sc
+ 13  ³      1 ³      1 ³   1.00 ³C 1scC 2scC 2scC 2sc
+ 14  ³      1 ³      1 ³   1.00 ³C 1scC 2scC 3dc
+ 15  ³      1 ³      1 ³   1.00 ³C 1scC 2scC 3dcC 2sc
+ 16  ³      1 ³      1 ³   1.00 ³C 1scC 2scC 3dcN 2dc
+ 17  ³      1 ³      1 ³   1.00 ³C 1scC 2scN 2sc
+ 18  ³      1 ³      1 ³   1.00 ³C 1scC 2scN 2scC 3dc
+ 19  ³      1 ³      1 ³   1.00 ³C 1scC 2scN 2scC 3ss
+ 20  ³      2 ³      2 ³   2.00 ³C 1scC 2scN 3sc
+ 21  ³      2 ³      2 ³   2.00 ³C 1scC 2scN 3scC 2sc
+ 22  ³      2 ³      2 ³   2.00 ³C 1scC 2scN 3scC 3ss
+ 23  ³      2 ³      1 ³   1.00 ³C 1scC 3dc
+ 24  ³      1 ³      1 ³   1.00 ³C 1scC 3dcC 2sc
+ 25  ³      1 ³      1 ³   1.00 ³C 1scC 3dcC 2scC 2sc
+ 26  ³      1 ³      1 ³   1.00 ³C 1scC 3dcC 2scC 3sc
+ 27  ³      1 ³      1 ³   1.00 ³C 1scC 3dcC 3ds
+ 28  ³      2 ³      2 ³   2.00 ³C 1scC 3dcC 3dsC 2ds
+ 29  ³      1 ³      1 ³   1.00 ³C 1scC 3dcC 4ss
+ 30  ³      2 ³      2 ³   2.00 ³C 1scC 3dcC 4ssC 2ss
+ 31  ³      1 ³      1 ³   1.00 ³C 1scC 3dcC 4ssO 1sc
+ 32  ³      2 ³      1 ³   1.00 ³C 1scC 3dcN 2dc
+ 33  ³      2 ³      1 ³   1.00 ³C 1scC 3dcN 2dcN 2dc
+ 34  ³      1 ³      1 ³   1.00 ³C 1scC 3dcN 2dcN 2sc
+ 35  ³      1 ³      1 ³   1.00 ³C 1scC 3dcN 2dcN 3ss
+ 36  ³      1 ³      1 ³   1.00 ³C 1scC 3dcN 2sc
+ 37  ³      1 ³      1 ³   1.00 ³C 1scC 3dcN 2scC 3ss
+ 38  ³      2 ³      1 ³   1.00 ³C 1scC 3dcO 1dc
+ 39  ³      1 ³      1 ³   1.00 ³C 1scC 3dcO 2sc
+ 40  ³      1 ³      1 ³   1.00 ³C 1scC 3dcO 2scC 2sc
+ 41  ³      2 ³      1 ³   1.00 ³C 1scC 3sc
+ 42  ³      1 ³      1 ³   1.00 ³C 1scC 3scC 1sc
+ 43  ³      2 ³      2 ³   2.00 ³C 1scC 3scC 2sc
+ 44  ³      2 ³      2 ³   2.00 ³C 1scC 3scC 2scC 3dc
+ 45  ³      2 ³      2 ³   2.00 ³C 1scC 3scC 2scC 3sc
+ 46  ³      1 ³      1 ³   1.00 ³C 1scC 3scC 3dc
+ 47  ³      1 ³      1 ³   1.00 ³C 1scC 3scC 3dcN 2sc
+ 48  ³      1 ³      1 ³   1.00 ³C 1scC 3scC 3dcO 1dc
+ 49  ³      1 ³      1 ³   1.00 ³C 1scC 3scC 4ss
+ 50  ³      2 ³      2 ³   2.00 ³C 1scC 3scC 4ssC 2ss
+ 51  ³      1 ³      1 ³   1.00 ³C 1scC 3scC 4ssO 1sc
+ 52  ³      1 ³      1 ³   1.00 ³C 1scC 3scN 1sc
+ 53  ³      1 ³      1 ³   1.00 ³C 1scC 3scO 1sc
+ 54  ³      3 ³      1 ³   1.00 ³C 1scC 3ss
+ 55  ³      2 ³      2 ³   2.00 ³C 1scC 3ssC 2ss
+ 56  ³      2 ³      2 ³   2.00 ³C 1scC 3ssC 2ssC 2ss
+ 57  ³      2 ³      2 ³   2.00 ³C 1scC 3ssC 3ds
+ 58  ³      2 ³      2 ³   2.00 ³C 1scC 3ssC 3dsC 3ss
+ 59  ³      2 ³      2 ³   2.00 ³C 1scC 3ssC 3dsN 2dc
+ 60  ³      1 ³      1 ³   1.00 ³C 1scC 3ssC 3ss
+ 61  ³      1 ³      1 ³   1.00 ³C 1scC 3ssC 3ssC 3ss
+ 62  ³      1 ³      1 ³   1.00 ³C 1scC 3ssC 3ssO 1sc
+ 63  ³      1 ³      1 ³   1.00 ³C 1scC 3ssO 2ss
+ 64  ³      1 ³      1 ³   1.00 ³C 1scC 3ssO 2ssC 3ss
+ 65  ³      6 ³      3 ³   6.00 ³C 1scC 4sc
+ 66  ³      6 ³      3 ³   6.00 ³C 1scC 4scC 1sc
+ 67  ³      6 ³      6 ³   6.00 ³C 1scC 4scC 3ds
+ 68  ³      6 ³      6 ³   6.00 ³C 1scC 4scC 3dsC 2ds
+ 69  ³      6 ³      6 ³   6.00 ³C 1scC 4scC 3dsC 3ds
+ 70  ³      3 ³      3 ³   3.00 ³C 1scC 4scO 2sc
+ 71  ³      3 ³      3 ³   3.00 ³C 1scC 4scO 2scC 3dc
+ 72  ³      1 ³      1 ³   1.00 ³C 1scN 2sc
+ 73  ³      1 ³      1 ³   1.00 ³C 1scN 2scC 3dc
+ 74  ³      1 ³      1 ³   1.00 ³C 1scN 2scC 3dcN 2sc
+ 75  ³      1 ³      1 ³   1.00 ³C 1scN 2scC 3dcO 1dc
+ 76  ³      2 ³      2 ³   2.00 ³C 1scN 3sc
+ 77  ³      1 ³      1 ³   1.00 ³C 1scN 3scC 1sc
+ 78  ³      2 ³      2 ³   2.00 ³C 1scN 3scC 2dc
+ 79  ³      2 ³      2 ³   2.00 ³C 1scN 3scC 2dcN 2dc
+ 80  ³      1 ³      1 ³   1.00 ³C 1scN 3ss
+ 81  ³      2 ³      2 ³   2.00 ³C 1scN 3ssC 2ss
+ 82  ³      2 ³      2 ³   2.00 ³C 1scN 3ssC 2ssC 2ss
+ 83  ³      1 ³      1 ³   1.00 ³C 1scO 2sc
+ 84  ³      1 ³      1 ³   1.00 ³C 1scO 2scC 3ds
+ 85  ³      1 ³      1 ³   1.00 ³C 1scO 2scC 3dsC 2ds
+ 86  ³      1 ³      1 ³   1.00 ³C 1scO 2scC 3dsC 3ds
+ 87  ³      1 ³      1 ³   1.00 ³C 2dc
+ 88  ³      1 ³      1 ³   1.00 ³C 2dcC 2sc
+ 89  ³      1 ³      1 ³   1.00 ³C 2dcC 2scN 2sc
+ 90  ³      1 ³      1 ³   1.00 ³C 2dcC 2scN 2scC 3dc
+ 91  ³      1 ³      1 ³   1.00 ³C 2dcN 2dc
+ 92  ³      1 ³      1 ³   1.00 ³C 2dcN 2dcC 3ss
+ 93  ³      1 ³      1 ³   1.00 ³C 2dcN 2dcC 3ssC 2ss
+ 94  ³      1 ³      1 ³   1.00 ³C 2dcN 2dcC 3ssC 3ss
+ 95  ³      1 ³      1 ³   1.00 ³C 2dcN 2sc
+ 96  ³      1 ³      1 ³   1.00 ³C 2dcN 2scC 3ss
+ 97  ³      1 ³      1 ³   1.00 ³C 2dcN 2scC 3ssC 2ss
+ 98  ³      1 ³      1 ³   1.00 ³C 2dcN 2scC 3ssC 3ss
+ 99  ³      1 ³      1 ³   1.00 ³C 2dcN 3sc
+100  ³      1 ³      1 ³   1.00 ³C 2dcO 1dc
+101  ³      1 ³      1 ³   1.00 ³C 2dcO 2sc
+102  ³      1 ³      1 ³   1.00 ³C 2dcO 2scC 2sc
+103  ³      1 ³      1 ³   1.00 ³C 2dcO 2scC 2scC 3dc
+104  ³      9 ³      3 ³   3.00 ³C 2ds
+105  ³      6 ³      2 ³   2.00 ³C 2dsC 2ds
+106  ³      4 ³      1 ³   1.00 ³C 2dsC 2dsC 2ds
+107  ³      2 ³      1 ³   1.00 ³C 2dsC 2dsC 2dsC 2ds
+108  ³      4 ³      2 ³   2.00 ³C 2dsC 2dsC 2dsC 3ds
+109  ³      6 ³      2 ³   2.00 ³C 2dsC 2dsC 3ds
+110  ³      4 ³      2 ³   2.00 ³C 2dsC 2dsC 3dsC 2ds
+111  ³      2 ³      2 ³   2.00 ³C 2dsC 2dsC 3dsC 2sc
+112  ³      2 ³      1 ³   1.00 ³C 2dsC 2dsC 3dsC 3dc
+113  ³      7 ³      3 ³   3.00 ³C 2dsC 2dsC 3dsC 3ds
+114  ³      2 ³      2 ³   2.00 ³C 2dsC 2dsC 3dsN 2ds
+115  ³      2 ³      2 ³   2.00 ³C 2dsC 2dsC 3dsN 2sc
+116  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsC 3dsN 2ss
+117  ³      2 ³      2 ³   2.00 ³C 2dsC 2dsC 3dsN 3sc
+118  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsC 3dsO 1dc
+119  ³      2 ³      1 ³   1.00 ³C 2dsC 2dsC 3dsO 1sc
+120  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsC 3dsO 2sc
+121  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsN 2ds
+122  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsN 2dsC 2ds
+123  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsN 3ss
+124  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsN 3ssC 2ds
+125  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsN 3ssC 2sc
+126  ³      1 ³      1 ³   1.00 ³C 2dsC 2dsN 3ssC 3ds
+127  ³      6 ³      2 ³   2.00 ³C 2dsC 3ds
+128  ³      2 ³      1 ³   1.00 ³C 2dsC 3dsC 2ds
+129  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 2dsC 3ds
+130  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 2sc
+131  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 2scC 2sc
+132  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 2scC 3sc
+133  ³      2 ³      1 ³   1.00 ³C 2dsC 3dsC 3dc
+134  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 3dcN 2dc
+135  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 3dcN 2sc
+136  ³      2 ³      1 ³   1.00 ³C 2dsC 3dsC 3dcO 1dc
+137  ³      1 ³      1 ³   1.00 ³C 2dsC 3dsC 3dcO 2sc
+138  ³      7 ³      3 ³   3.00 ³C 2dsC 3dsC 3ds
+139  ³      2 ³      1 ³   1.00 ³C 2dsC 3dsC 3dsC 2ds
+140  ³      1 ³      1 ³   1.00 ³C 2dsC 3dsC 3dsC 3dc
+141  ³      7 ³      5 ³   5.00 ³C 2dsC 3dsC 3dsC 3ds
+142  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 3dsN 2ds
+143  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 3dsN 3ss
+144  ³      3 ³      1 ³   1.00 ³C 2dsC 3dsC 3dsO 1dc
+145  ³      2 ³      1 ³   1.00 ³C 2dsC 3dsC 3dsO 1sc
+146  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsC 4sc
+147  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsN 2ds
+148  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsN 2dsC 3ds
+149  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsN 2sc
+150  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsN 2scC 3dc
+151  ³      1 ³      1 ³   1.00 ³C 2dsC 3dsN 2ss
+152  ³      1 ³      1 ³   1.00 ³C 2dsC 3dsN 2ssC 3ds
+153  ³      2 ³      2 ³   2.00 ³C 2dsC 3dsN 3sc
+154  ³      4 ³      4 ³   4.00 ³C 2dsC 3dsN 3scC 2sc
+155  ³      1 ³      1 ³   1.00 ³C 2dsC 3dsO 1dc
+156  ³      2 ³      1 ³   1.00 ³C 2dsC 3dsO 1sc
+157  ³      1 ³      1 ³   1.00 ³C 2dsC 3dsO 2sc
+158  ³      3 ³      2 ³   2.00 ³C 2dsN 2ds
+159  ³      1 ³      1 ³   1.00 ³C 2dsN 2dsC 2ds
+160  ³      1 ³      1 ³   1.00 ³C 2dsN 2dsC 2dsN 3ss
+161  ³      3 ³      2 ³   3.00 ³C 2dsN 2dsC 3ds
+162  ³      4 ³      3 ³   4.00 ³C 2dsN 2dsC 3dsC 3ds
+163  ³      1 ³      1 ³   1.00 ³C 2dsN 2dsC 3dsN 1sc
+164  ³      1 ³      1 ³   1.00 ³C 2dsN 2dsC 3dsN 3ss
+165  ³      1 ³      1 ³   1.00 ³C 2dsN 2ss
+166  ³      1 ³      1 ³   1.00 ³C 2dsN 2ssC 3ds
+167  ³      1 ³      1 ³   1.00 ³C 2dsN 2ssC 3dsC 3ds
+168  ³      1 ³      1 ³   1.00 ³C 2dsN 2ssC 3dsO 1dc
+169  ³      2 ³      1 ³   2.00 ³C 2dsN 3ss
+170  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 2ds
+171  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 2dsN 2ds
+172  ³      2 ³      1 ³   2.00 ³C 2dsN 3ssC 2sc
+173  ³      2 ³      1 ³   2.00 ³C 2dsN 3ssC 2scC 3dc
+174  ³      2 ³      1 ³   2.00 ³C 2dsN 3ssC 2scC 3sc
+175  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3ds
+176  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3dsC 3ds
+177  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3dsN 2ds
+178  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3dsN 2ss
+179  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3dsO 1dc
+180  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3ss
+181  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3ssC 2ss
+182  ³      1 ³      1 ³   1.00 ³C 2dsN 3ssC 3ssO 2ss
+183  ³      5 ³      1 ³   1.00 ³C 2sc
+184  ³      2 ³      1 ³   1.00 ³C 2scC 2sc
+185  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 2sc
+186  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 2scC 3dc
+187  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 3dc
+188  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 3dcC 2sc
+189  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 3dcN 2dc
+190  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 3dcO 1dc
+191  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 3dcO 2sc
+192  ³      1 ³      1 ³   1.00 ³C 2scC 2scC 3ds
+193  ³      2 ³      2 ³   2.00 ³C 2scC 2scCL1sc
+194  ³      2 ³      2 ³   2.00 ³C 2scC 2scN 3sc
+195  ³      2 ³      2 ³   2.00 ³C 2scC 2scN 3scC 2sc
+196  ³      2 ³      2 ³   2.00 ³C 2scC 2scN 3scC 3ds
+197  ³      1 ³      1 ³   1.00 ³C 2scC 2tc
+198  ³      1 ³      1 ³   1.00 ³C 2scC 2tcN 1tc
+199  ³      2 ³      1 ³   1.00 ³C 2scC 3dc
+200  ³      1 ³      1 ³   1.00 ³C 2scC 3dcC 2sc
+201  ³      1 ³      1 ³   1.00 ³C 2scC 3dcC 4ss
+202  ³      2 ³      2 ³   2.00 ³C 2scC 3dcC 4ssC 2ss
+203  ³      1 ³      1 ³   1.00 ³C 2scC 3dcC 4ssO 1sc
+204  ³      2 ³      1 ³   1.00 ³C 2scC 3dcN 2dc
+205  ³      2 ³      1 ³   1.00 ³C 2scC 3dcN 2dcN 2dc
+206  ³      1 ³      1 ³   1.00 ³C 2scC 3dcN 2sc
+207  ³      1 ³      1 ³   1.00 ³C 2scC 3dcN 2scN 2dc
+208  ³      2 ³      1 ³   1.00 ³C 2scC 3dcO 1dc
+209  ³      1 ³      1 ³   1.00 ³C 2scC 3dcO 2sc
+210  ³      1 ³      1 ³   1.00 ³C 2scC 3dcO 2scC 2sc
+211  ³      1 ³      1 ³   1.00 ³C 2scC 3ds
+212  ³      2 ³      2 ³   2.00 ³C 2scC 3dsC 2dsC 3ds
+213  ³      2 ³      1 ³   1.00 ³C 2scC 3sc
+214  ³      1 ³      1 ³   1.00 ³C 2scC 3scC 3dc
+215  ³      1 ³      1 ³   1.00 ³C 2scC 3scC 3dcN 2sc
+216  ³      1 ³      1 ³   1.00 ³C 2scC 3scC 3dcO 1dc
+217  ³      1 ³      1 ³   1.00 ³C 2scC 3scC 4ss
+218  ³      2 ³      2 ³   2.00 ³C 2scC 3scC 4ssC 2ss
+219  ³      1 ³      1 ³   1.00 ³C 2scC 3scC 4ssO 1sc
+220  ³      1 ³      1 ³   1.00 ³C 2scC 3scN 1sc
+221  ³      1 ³      1 ³   1.00 ³C 2scC 3scN 2sc
+222  ³      1 ³      1 ³   1.00 ³C 2scC 3scN 2scC 3dc
+223  ³      1 ³      1 ³   1.00 ³C 2scC 3scO 1sc
+224  ³      1 ³      1 ³   1.00 ³C 2scC 3ss
+225  ³      1 ³      1 ³   1.00 ³C 2scC 3ssC 2ss
+226  ³      1 ³      1 ³   1.00 ³C 2scC 3ssC 2ssN 3ss
+227  ³      1 ³      1 ³   1.00 ³C 2scC 3ssO 2ss
+228  ³      1 ³      1 ³   1.00 ³C 2scC 3ssO 2ssC 3ss
+229  ³      2 ³      1 ³   1.00 ³C 2scCL1sc
+230  ³      1 ³      1 ³   1.00 ³C 2scI 1sc
+231  ³      1 ³      1 ³   1.00 ³C 2scN 2sc
+232  ³      1 ³      1 ³   1.00 ³C 2scN 2scC 3dc
+233  ³      1 ³      1 ³   1.00 ³C 2scN 2scC 3dcN 2sc
+234  ³      1 ³      1 ³   1.00 ³C 2scN 2scC 3dcS 1dc
+235  ³      1 ³      1 ³   1.00 ³C 2scN 2scC 3ss
+236  ³      1 ³      1 ³   1.00 ³C 2scN 2scC 3ssC 2ss
+237  ³      1 ³      1 ³   1.00 ³C 2scN 2scC 3ssC 3ss
+238  ³      2 ³      2 ³   2.00 ³C 2scN 3sc
+239  ³      1 ³      1 ³   1.00 ³C 2scN 3scC 2sc
+240  ³      2 ³      2 ³   2.00 ³C 2scN 3scC 3ds
+241  ³      2 ³      2 ³   2.00 ³C 2scN 3scC 3ss
+242  ³      2 ³      2 ³   2.00 ³C 2scN 3scC 3ssC 2ss
+243  ³      2 ³      2 ³   2.00 ³C 2scN 3scC 3ssC 3ss
+244  ³      1 ³      1 ³   1.00 ³C 2scN 3ss
+245  ³      1 ³      1 ³   1.00 ³C 2scN 3ssC 2dsN 2ds
+246  ³      2 ³      1 ³   2.00 ³C 2scN 3ssC 3ds
+247  ³      2 ³      2 ³   2.00 ³C 2scN 3ssC 3dsC 2ss
+248  ³      2 ³      1 ³   1.00 ³C 2scN 3ssC 3dsC 3ds
+249  ³      1 ³      1 ³   1.00 ³C 2scN 3ssC 3dsN 2ds
+250  ³      1 ³      1 ³   1.00 ³C 2scN 3ssC 3dsN 2ss
+251  ³      2 ³      1 ³   2.00 ³C 2scN 3ssC 3dsO 1dc
+252  ³      1 ³      1 ³   1.00 ³C 2scO 1sc
+253  ³      1 ³      1 ³   1.00 ³C 2scO 2sc
+254  ³      1 ³      1 ³   1.00 ³C 2scO 2scC 2dcO 1dc
+255  ³      1 ³      1 ³   1.00 ³C 2scO 2scC 3dc
+256  ³      1 ³      1 ³   1.00 ³C 2scO 2scC 3dcC 3ds
+257  ³      1 ³      1 ³   1.00 ³C 2scO 2scC 3dcO 1dc
+258  ³     12 ³      3 ³   3.00 ³C 2ss
+259  ³      7 ³      1 ³   1.00 ³C 2ssC 2ss
+260  ³      5 ³      2 ³   2.00 ³C 2ssC 2ssC 2ss
+261  ³      3 ³      1 ³   1.00 ³C 2ssC 2ssC 2ssC 2ss
+262  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 2ssC 3ds
+263  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 2ssN 3ss
+264  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3ds
+265  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3dsC 2ss
+266  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3dsN 2dc
+267  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3dsN 3ss
+268  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3dsO 1dc
+269  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3ss
+270  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssC 3ssC 3ds
+271  ³      4 ³      2 ³   4.00 ³C 2ssC 2ssN 3ss
+272  ³      4 ³      2 ³   4.00 ³C 2ssC 2ssN 3ssC 2ss
+273  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssN 3ssC 3ss
+274  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssN 3ssN 2dc
+275  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssO 2ss
+276  ³      2 ³      2 ³   2.00 ³C 2ssC 2ssO 2ssC 2ss
+277  ³      3 ³      1 ³   1.00 ³C 2ssC 3ds
+278  ³      1 ³      1 ³   1.00 ³C 2ssC 3dsC 2ss
+279  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsC 3ds
+280  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsC 3dsC 3ds
+281  ³      1 ³      1 ³   1.00 ³C 2ssC 3dsC 3dsC 3ss
+282  ³      1 ³      1 ³   1.00 ³C 2ssC 3dsC 3dsO 1sc
+283  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsN 2dc
+284  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsN 2dcN 2dc
+285  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsN 3ss
+286  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsN 3ssC 3ds
+287  ³      2 ³      2 ³   2.00 ³C 2ssC 3dsO 1dc
+288  ³     13 ³      3 ³   3.00 ³C 2ssC 3ss
+289  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssC 2scO 1sc
+290  ³      8 ³      8 ³   8.00 ³C 2ssC 3ssC 2ss
+291  ³     16 ³     16 ³  16.00 ³C 2ssC 3ssC 2ssC 3ss
+292  ³      5 ³      1 ³   1.00 ³C 2ssC 3ssC 3ds
+293  ³      2 ³      2 ³   2.00 ³C 2ssC 3ssC 3dsC 3ds
+294  ³      4 ³      2 ³   4.00 ³C 2ssC 3ssC 3dsC 3ss
+295  ³      4 ³      2 ³   4.00 ³C 2ssC 3ssC 3dsN 2dc
+296  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssC 3ss
+297  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssC 3ssC 3ss
+298  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssC 3ssO 1sc
+299  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssN 1sc
+300  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssN 2dc
+301  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssN 2sc
+302  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssN 2scC 3dc
+303  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssN 3sc
+304  ³      2 ³      1 ³   1.00 ³C 2ssC 3ssN 3ss
+305  ³      2 ³      2 ³   2.00 ³C 2ssC 3ssN 3ssC 2ss
+306  ³      1 ³      1 ³   1.00 ³C 2ssC 3ssN 3ssC 3ds
+307  ³      2 ³      2 ³   2.00 ³C 2ssC 3ssO 2sc
+308  ³      2 ³      2 ³   2.00 ³C 2ssC 3ssO 2scC 3ss
+309  ³      3 ³      1 ³   1.00 ³C 2ssC 3ssO 2ss
+310  ³      3 ³      1 ³   1.00 ³C 2ssC 3ssO 2ssC 3ss
+311  ³      2 ³      2 ³   2.00 ³C 2ssC 4ss
+312  ³      1 ³      1 ³   1.00 ³C 2ssC 4ssC 2ss
+313  ³      1 ³      1 ³   1.00 ³C 2ssC 4ssC 2ssC 3ds
+314  ³      1 ³      1 ³   1.00 ³C 2ssC 4ssC 2ssC 3ss
+315  ³      2 ³      2 ³   2.00 ³C 2ssC 4ssC 3dc
+316  ³      2 ³      2 ³   2.00 ³C 2ssC 4ssC 3dcN 2dc
+317  ³      2 ³      2 ³   2.00 ³C 2ssC 4ssC 3dcO 1dc
+318  ³      2 ³      2 ³   2.00 ³C 2ssC 4ssC 3sc
+319  ³      2 ³      2 ³   2.00 ³C 2ssC 4ssC 3scO 1sc
+320  ³      2 ³      2 ³   2.00 ³C 2ssC 4ssO 1sc
+321  ³      4 ³      2 ³   4.00 ³C 2ssN 3ss
+322  ³      2 ³      1 ³   2.00 ³C 2ssN 3ssC 2ss
+323  ³      2 ³      2 ³   2.00 ³C 2ssN 3ssC 2ssC 3ss
+324  ³      2 ³      2 ³   2.00 ³C 2ssN 3ssC 3ss
+325  ³      2 ³      2 ³   2.00 ³C 2ssN 3ssC 3ssC 3ss
+326  ³      2 ³      2 ³   2.00 ³C 2ssN 3ssN 2dc
+327  ³      2 ³      2 ³   2.00 ³C 2ssN 3ssN 2dcC 3dc
+328  ³      2 ³      2 ³   2.00 ³C 2ssO 2ss
+329  ³      1 ³      1 ³   1.00 ³C 2ssO 2ssC 2ss
+330  ³      1 ³      1 ³   1.00 ³C 2tc
+331  ³      1 ³      1 ³   1.00 ³C 2tcC 2scC 3dc
+332  ³      1 ³      1 ³   1.00 ³C 2tcC 2scC 3dcN 2sc
+333  ³      1 ³      1 ³   1.00 ³C 2tcC 2scC 3dcO 1dc
+334  ³      1 ³      1 ³   1.00 ³C 2tcN 1tc
+335  ³      3 ³      1 ³   1.00 ³C 3dc
+336  ³      1 ³      1 ³   1.00 ³C 3dcC 2scC 2scC 3ds
+337  ³      1 ³      1 ³   1.00 ³C 3dcC 2scC 2tcN 1tc
+338  ³      1 ³      1 ³   1.00 ³C 3dcC 2scC 3sc
+339  ³      1 ³      1 ³   1.00 ³C 3dcC 2scCL1sc
+340  ³      1 ³      1 ³   1.00 ³C 3dcC 2scI 1sc
+341  ³      1 ³      1 ³   1.00 ³C 3dcC 2scN 3ss
+342  ³      2 ³      1 ³   2.00 ³C 3dcC 2scN 3ssC 3ds
+343  ³      1 ³      1 ³   1.00 ³C 3dcC 2scO 1sc
+344  ³      1 ³      1 ³   1.00 ³C 3dcC 2scO 2sc
+345  ³      1 ³      1 ³   1.00 ³C 3dcC 2scO 2scC 3dc
+346  ³      1 ³      1 ³   1.00 ³C 3dcC 3ds
+347  ³      1 ³      1 ³   1.00 ³C 3dcC 3dsC 3ds
+348  ³      1 ³      1 ³   1.00 ³C 3dcC 3dsC 3dsO 1sc
+349  ³      1 ³      1 ³   1.00 ³C 3dcC 3dsN 2ds
+350  ³      1 ³      1 ³   1.00 ³C 3dcC 3dsN 2dsC 3ds
+351  ³      1 ³      1 ³   1.00 ³C 3dcC 3sc
+352  ³      1 ³      1 ³   1.00 ³C 3dcC 3scC 2scC 3ds
+353  ³      1 ³      1 ³   1.00 ³C 3dcC 3scC 2scC 3sc
+354  ³      1 ³      1 ³   1.00 ³C 3dcC 3scC 2scN 3ss
+355  ³      1 ³      1 ³   1.00 ³C 3dcC 3scN 1sc
+356  ³      1 ³      1 ³   1.00 ³C 3dcC 3scN 2sc
+357  ³      1 ³      1 ³   1.00 ³C 3dcC 3scN 2scC 3dc
+358  ³      1 ³      1 ³   1.00 ³C 3dcC 4ss
+359  ³      1 ³      1 ³   1.00 ³C 3dcC 4ssC 2ssC 3ds
+360  ³      1 ³      1 ³   1.00 ³C 3dcC 4ssC 2ssC 3ss
+361  ³      1 ³      1 ³   1.00 ³C 3dcC 4ssO 1sc
+362  ³      2 ³      1 ³   1.00 ³C 3dcN 2dc
+363  ³      2 ³      1 ³   1.00 ³C 3dcN 2dcN 2dc
+364  ³      1 ³      1 ³   1.00 ³C 3dcN 2dcN 2dcC 3dc
+365  ³      1 ³      1 ³   1.00 ³C 3dcN 2dcN 2dcC 3ds
+366  ³      1 ³      1 ³   1.00 ³C 3dcN 2dcN 2sc
+367  ³      1 ³      1 ³   1.00 ³C 3dcN 2dcN 2scC 3dc
+368  ³      1 ³      1 ³   1.00 ³C 3dcN 2dcN 3ss
+369  ³      2 ³      1 ³   1.00 ³C 3dcN 2sc
+370  ³      1 ³      1 ³   1.00 ³C 3dcN 2scC 3ds
+371  ³      1 ³      1 ³   1.00 ³C 3dcN 2scC 3sc
+372  ³      1 ³      1 ³   1.00 ³C 3dcN 2scC 3ss
+373  ³      1 ³      1 ³   1.00 ³C 3dcN 2scC 3ssC 3ss
+374  ³      1 ³      1 ³   1.00 ³C 3dcN 2scN 2dc
+375  ³      2 ³      1 ³   1.00 ³C 3dcO 1dc
+376  ³      1 ³      1 ³   1.00 ³C 3dcO 2sc
+377  ³      1 ³      1 ³   1.00 ³C 3dcO 2scC 4sc
+378  ³      1 ³      1 ³   1.00 ³C 3dcS 1dc
+379  ³     15 ³     11 ³  11.00 ³C 3ds
+380  ³      2 ³      1 ³   2.00 ³C 3dsC 2dsC 2dsC 3ds
+381  ³      1 ³      1 ³   1.00 ³C 3dsC 2dsC 2dsN 3ss
+382  ³      2 ³      2 ³   2.00 ³C 3dsC 2dsC 3ds
+383  ³      2 ³      2 ³   2.00 ³C 3dsC 2dsC 3dsC 3ds
+384  ³      2 ³      2 ³   2.00 ³C 3dsC 2dsC 3dsC 4sc
+385  ³      1 ³      1 ³   1.00 ³C 3dsC 2scC 3sc
+386  ³      1 ³      1 ³   1.00 ³C 3dsC 2scC 3scN 1sc
+387  ³      1 ³      1 ³   1.00 ³C 3dsC 2ssC 2ssC 3ds
+388  ³      1 ³      1 ³   1.00 ³C 3dsC 2ssC 4ss
+389  ³      1 ³      1 ³   1.00 ³C 3dsC 2ssC 4ssC 3sc
+390  ³      1 ³      1 ³   1.00 ³C 3dsC 2ssC 4ssO 1sc
+391  ³      1 ³      1 ³   1.00 ³C 3dsC 3dcN 2dc
+392  ³      1 ³      1 ³   1.00 ³C 3dsC 3dcN 2dcN 2dc
+393  ³      1 ³      1 ³   1.00 ³C 3dsC 3dcN 2sc
+394  ³      1 ³      1 ³   1.00 ³C 3dsC 3dcN 2scN 2dc
+395  ³      1 ³      1 ³   1.00 ³C 3dsC 3dcO 1dc
+396  ³      1 ³      1 ³   1.00 ³C 3dsC 3dcO 2sc
+397  ³     15 ³     12 ³  12.00 ³C 3dsC 3ds
+398  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 2ssC 4ss
+399  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsC 3dcO 1dc
+400  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsC 3dcO 2sc
+401  ³     18 ³     16 ³  16.00 ³C 3dsC 3dsC 3ds
+402  ³     21 ³     20 ³  20.00 ³C 3dsC 3dsC 3dsC 3ds
+403  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 3dsC 3ss
+404  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 3dsC 4sc
+405  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsC 3dsN 1sc
+406  ³      2 ³      1 ³   2.00 ³C 3dsC 3dsC 3dsN 2ds
+407  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsC 3dsN 2ss
+408  ³      2 ³      1 ³   1.00 ³C 3dsC 3dsC 3dsN 3ss
+409  ³      9 ³      7 ³   7.00 ³C 3dsC 3dsC 3dsO 1dc
+410  ³      8 ³      6 ³   8.00 ³C 3dsC 3dsC 3dsO 1sc
+411  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 3dsO 2sc
+412  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 3ss
+413  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 3ssO 2sc
+414  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsC 4sc
+415  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsN 1sc
+416  ³      4 ³      1 ³   1.00 ³C 3dsC 3dsN 2ds
+417  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsN 2dsC 3ds
+418  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsN 2ss
+419  ³      2 ³      1 ³   1.00 ³C 3dsC 3dsN 3ss
+420  ³      2 ³      2 ³   2.00 ³C 3dsC 3dsN 3ssC 3ds
+421  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsN 3ssC 3ss
+422  ³      6 ³      4 ³   4.00 ³C 3dsC 3dsO 1dc
+423  ³      7 ³      4 ³   5.00 ³C 3dsC 3dsO 1sc
+424  ³      1 ³      1 ³   1.00 ³C 3dsC 3dsO 2sc
+425  ³      3 ³      1 ³   1.00 ³C 3dsC 3ss
+426  ³      4 ³      4 ³   4.00 ³C 3dsC 3ssC 2ssC 3ss
+427  ³      1 ³      1 ³   1.00 ³C 3dsC 3ssC 2ssC 4ss
+428  ³      1 ³      1 ³   1.00 ³C 3dsC 3ssO 2sc
+429  ³      1 ³      1 ³   1.00 ³C 3dsC 3ssO 2scC 3ss
+430  ³      2 ³      2 ³   2.00 ³C 3dsC 4sc
+431  ³      1 ³      1 ³   1.00 ³C 3dsN 1sc
+432  ³      1 ³      1 ³   1.00 ³C 3dsN 2dc
+433  ³      1 ³      1 ³   1.00 ³C 3dsN 2dcN 2dc
+434  ³      3 ³      2 ³   2.00 ³C 3dsN 2ds
+435  ³      2 ³      2 ³   2.00 ³C 3dsN 2dsC 2dsN 2ds
+436  ³      1 ³      1 ³   1.00 ³C 3dsN 2dsC 2dsN 2ss
+437  ³      1 ³      1 ³   1.00 ³C 3dsN 2dsC 2dsN 3ss
+438  ³      1 ³      1 ³   1.00 ³C 3dsN 2dsC 3ds
+439  ³      1 ³      1 ³   1.00 ³C 3dsN 2sc
+440  ³      1 ³      1 ³   1.00 ³C 3dsN 2scC 3dcN 2sc
+441  ³      1 ³      1 ³   1.00 ³C 3dsN 2scC 3dcS 1dc
+442  ³      2 ³      1 ³   2.00 ³C 3dsN 2ss
+443  ³      1 ³      1 ³   1.00 ³C 3dsN 2ssC 2dsN 2ds
+444  ³      1 ³      1 ³   1.00 ³C 3dsN 2ssC 3ds
+445  ³      1 ³      1 ³   1.00 ³C 3dsN 2ssC 3dsN 3ss
+446  ³      2 ³      2 ³   2.00 ³C 3dsN 2ssC 3dsO 1dc
+447  ³      1 ³      1 ³   1.00 ³C 3dsN 3sc
+448  ³      2 ³      1 ³   2.00 ³C 3dsN 3ss
+449  ³      1 ³      1 ³   1.00 ³C 3dsN 3ssC 2dsN 2ds
+450  ³      1 ³      1 ³   1.00 ³C 3dsN 3ssC 2scC 3sc
+451  ³      1 ³      1 ³   1.00 ³C 3dsN 3ssC 3ds
+452  ³      2 ³      2 ³   2.00 ³C 3dsN 3ssC 3dsO 1dc
+453  ³      1 ³      1 ³   1.00 ³C 3dsN 3ssC 3ss
+454  ³      1 ³      1 ³   1.00 ³C 3dsN 3ssC 3ssO 2ss
+455  ³      4 ³      2 ³   2.00 ³C 3dsO 1dc
+456  ³      4 ³      2 ³   3.00 ³C 3dsO 1sc
+457  ³      1 ³      1 ³   1.00 ³C 3dsO 2sc
+458  ³      2 ³      1 ³   1.00 ³C 3sc
+459  ³      1 ³      1 ³   1.00 ³C 3scC 2scC 3dcN 2dc
+460  ³      1 ³      1 ³   1.00 ³C 3scC 2scC 3sc
+461  ³      1 ³      1 ³   1.00 ³C 3scC 2scC 3scN 1sc
+462  ³      1 ³      1 ³   1.00 ³C 3scC 2scN 3ss
+463  ³      1 ³      1 ³   1.00 ³C 3scC 3dcN 2sc
+464  ³      1 ³      1 ³   1.00 ³C 3scC 3dcN 2scC 3ss
+465  ³      1 ³      1 ³   1.00 ³C 3scC 3dcN 2scN 2dc
+466  ³      1 ³      1 ³   1.00 ³C 3scC 3dcO 1dc
+467  ³      1 ³      1 ³   1.00 ³C 3scC 4ss
+468  ³      1 ³      1 ³   1.00 ³C 3scC 4ssC 2ssC 3ss
+469  ³      1 ³      1 ³   1.00 ³C 3scC 4ssO 1sc
+470  ³      1 ³      1 ³   1.00 ³C 3scN 1sc
+471  ³      1 ³      1 ³   1.00 ³C 3scN 2sc
+472  ³      1 ³      1 ³   1.00 ³C 3scN 2scC 3dcO 1dc
+473  ³      1 ³      1 ³   1.00 ³C 3scN 2scC 3dcO 2sc
+474  ³      1 ³      1 ³   1.00 ³C 3scO 1sc
+475  ³      9 ³      5 ³   5.00 ³C 3ss
+476  ³      1 ³      1 ³   1.00 ³C 3ssC 2scO 1sc
+477  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 2ssC 3ss
+478  ³      6 ³      1 ³   1.00 ³C 3ssC 2ssC 3ss
+479  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssC 3ss
+480  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssN 1sc
+481  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssN 2dc
+482  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssN 2sc
+483  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssN 3sc
+484  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssN 3ss
+485  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssO 2sc
+486  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 3ssO 2ss
+487  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 4ss
+488  ³      1 ³      1 ³   1.00 ³C 3ssC 2ssC 4ssO 1sc
+489  ³      2 ³      2 ³   2.00 ³C 3ssC 2ssN 3ss
+490  ³      2 ³      2 ³   2.00 ³C 3ssC 2ssN 3ssC 3ss
+491  ³      1 ³      1 ³   1.00 ³C 3ssC 3dsC 3dsO 1sc
+492  ³      1 ³      1 ³   1.00 ³C 3ssC 3dsC 3ss
+493  ³      2 ³      2 ³   2.00 ³C 3ssC 3dsN 2dc
+494  ³      2 ³      2 ³   2.00 ³C 3ssC 3dsN 2dcN 2dc
+495  ³      2 ³      2 ³   2.00 ³C 3ssC 3ss
+496  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ss
+497  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ssN 1sc
+498  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ssN 2dc
+499  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ssN 2sc
+500  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ssN 3sc
+501  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ssN 3ss
+502  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssC 3ssO 2ss
+503  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssN 1sc
+504  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssN 2dc
+505  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssN 2sc
+506  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssN 3sc
+507  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssN 3ss
+508  ³      2 ³      2 ³   2.00 ³C 3ssC 3ssO 1sc
+509  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssO 2ss
+510  ³      1 ³      1 ³   1.00 ³C 3ssC 3ssO 2ssC 3ss
+511  ³      1 ³      1 ³   1.00 ³C 3ssN 1sc
+512  ³      1 ³      1 ³   1.00 ³C 3ssN 2dc
+513  ³      1 ³      1 ³   1.00 ³C 3ssN 2dcC 2dcN 3sc
+514  ³      1 ³      1 ³   1.00 ³C 3ssN 2sc
+515  ³      1 ³      1 ³   1.00 ³C 3ssN 2scC 2dcO 1dc
+516  ³      1 ³      1 ³   1.00 ³C 3ssN 2scC 3dcN 2sc
+517  ³      1 ³      1 ³   1.00 ³C 3ssN 2scC 3dcO 1dc
+518  ³      1 ³      1 ³   1.00 ³C 3ssN 2scC 3dcS 1dc
+519  ³      1 ³      1 ³   1.00 ³C 3ssN 3sc
+520  ³      2 ³      1 ³   1.00 ³C 3ssN 3ss
+521  ³      1 ³      1 ³   1.00 ³C 3ssN 3ssC 2dsN 2ds
+522  ³      1 ³      1 ³   1.00 ³C 3ssN 3ssC 3dsN 2ds
+523  ³      1 ³      1 ³   1.00 ³C 3ssO 1sc
+524  ³      2 ³      2 ³   2.00 ³C 3ssO 2sc
+525  ³      1 ³      1 ³   1.00 ³C 3ssO 2scC 3ss
+526  ³      1 ³      1 ³   1.00 ³C 3ssO 2scC 3ssO 2ss
+527  ³      4 ³      2 ³   2.00 ³C 3ssO 2ss
+528  ³      2 ³      1 ³   1.00 ³C 3ssO 2ssC 3ss
+529  ³      1 ³      1 ³   1.00 ³C 3ssO 2ssC 3ssN 3ss
+530  ³      1 ³      1 ³   1.00 ³C 3ssO 2ssC 3ssO 2sc
+531  ³      2 ³      1 ³   2.00 ³C 4sc
+532  ³      2 ³      2 ³   2.00 ³C 4scC 3dsC 3dsO 1sc
+533  ³      1 ³      1 ³   1.00 ³C 4scO 2sc
+534  ³      1 ³      1 ³   1.00 ³C 4scO 2scC 3dcN 2sc
+535  ³      1 ³      1 ³   1.00 ³C 4scO 2scC 3dcO 1dc
+536  ³      1 ³      1 ³   1.00 ³C 4ss
+537  ³      1 ³      1 ³   1.00 ³C 4ssC 2ssC 3ssO 2sc
+538  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcC 2scCL1sc
+539  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcC 2scI 1sc
+540  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcC 2scN 3ss
+541  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcC 2scO 1sc
+542  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcC 2scO 2sc
+543  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcN 2dc
+544  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcN 2dcN 2dc
+545  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcN 2dcN 2sc
+546  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcN 2dcN 3ss
+547  ³      1 ³      1 ³   1.00 ³C 4ssC 3dcO 1dc
+548  ³      1 ³      1 ³   1.00 ³C 4ssC 3scC 2scN 3ss
+549  ³      1 ³      1 ³   1.00 ³C 4ssC 3scO 1sc
+550  ³      1 ³      1 ³   1.00 ³C 4ssO 1sc
+551  ³      2 ³      1 ³   1.00 ³CL1sc
+552  ³      2 ³      2 ³   2.00 ³CL1scC 2scC 2scN 3sc
+553  ³      1 ³      1 ³   1.00 ³CL1scC 2scC 3dcO 1dc
+554  ³      1 ³      1 ³   1.00 ³I 1sc
+555  ³      1 ³      1 ³   1.00 ³I 1scC 2scC 3dcO 1dc
+556  ³      2 ³      1 ³   1.00 ³N 1sc
+557  ³      1 ³      1 ³   1.00 ³N 1scC 3dsC 3dsN 2ds
+558  ³      1 ³      1 ³   1.00 ³N 1scC 3dsN 2ds
+559  ³      1 ³      1 ³   1.00 ³N 1scC 3scC 3dcN 2sc
+560  ³      1 ³      1 ³   1.00 ³N 1scC 3scC 3dcO 1dc
+561  ³      1 ³      1 ³   1.00 ³N 1scC 3ssC 3ssO 1sc
+562  ³      1 ³      1 ³   1.00 ³N 1tc
+563  ³      2 ³      1 ³   1.00 ³N 2dc
+564  ³      1 ³      1 ³   1.00 ³N 2dcC 2dcN 3sc
+565  ³      1 ³      1 ³   1.00 ³N 2dcC 3dcC 4ssO 1sc
+566  ³      1 ³      1 ³   1.00 ³N 2dcC 3ssC 3ssO 1sc
+567  ³      1 ³      1 ³   1.00 ³N 2dcN 2dc
+568  ³      1 ³      1 ³   1.00 ³N 2dcN 2sc
+569  ³      1 ³      1 ³   1.00 ³N 2dcN 2scC 3dcO 1dc
+570  ³      1 ³      1 ³   1.00 ³N 2dcN 2scC 3dcO 2sc
+571  ³      1 ³      1 ³   1.00 ³N 2dcN 3ss
+572  ³      3 ³      1 ³   1.00 ³N 2ds
+573  ³      1 ³      1 ³   1.00 ³N 2dsC 2dsC 2dsN 3ss
+574  ³      1 ³      1 ³   1.00 ³N 2dsC 2dsN 2ds
+575  ³      1 ³      1 ³   1.00 ³N 2dsC 2dsN 2ss
+576  ³      1 ³      1 ³   1.00 ³N 2dsC 2dsN 3ss
+577  ³      1 ³      1 ³   1.00 ³N 2dsC 3dsC 3dcO 1dc
+578  ³      1 ³      1 ³   1.00 ³N 2dsC 3dsC 3dcO 2sc
+579  ³      2 ³      1 ³   2.00 ³N 2dsC 3dsC 3dsN 2ds
+580  ³      1 ³      1 ³   1.00 ³N 2dsC 3dsC 3dsN 2ss
+581  ³      1 ³      1 ³   1.00 ³N 2dsC 3dsC 3dsN 3ss
+582  ³      1 ³      1 ³   1.00 ³N 2dsC 3dsC 3dsO 1dc
+583  ³      1 ³      1 ³   1.00 ³N 2dsC 3dsN 3ss
+584  ³      2 ³      1 ³   1.00 ³N 2sc
+585  ³      1 ³      1 ³   1.00 ³N 2scC 2dcO 1dc
+586  ³      1 ³      1 ³   1.00 ³N 2scC 3dcC 3scN 2sc
+587  ³      1 ³      1 ³   1.00 ³N 2scC 3dcN 2sc
+588  ³      2 ³      1 ³   1.00 ³N 2scC 3dcO 1dc
+589  ³      1 ³      1 ³   1.00 ³N 2scC 3dcO 2sc
+590  ³      2 ³      2 ³   2.00 ³N 2scC 3dcS 1dc
+591  ³      1 ³      1 ³   1.00 ³N 2scC 3scC 2scN 3ss
+592  ³      1 ³      1 ³   1.00 ³N 2scC 3scC 3dcO 1dc
+593  ³      1 ³      1 ³   1.00 ³N 2scC 3ssC 3ssO 1sc
+594  ³      1 ³      1 ³   1.00 ³N 2ss
+595  ³      1 ³      1 ³   1.00 ³N 2ssC 3dsN 3ss
+596  ³      2 ³      1 ³   2.00 ³N 2ssC 3dsO 1dc
+597  ³      1 ³      1 ³   1.00 ³N 3sc
+598  ³      1 ³      1 ³   1.00 ³N 3scC 3ssC 3ssO 1sc
+599  ³      2 ³      1 ³   1.00 ³N 3ss
+600  ³      1 ³      1 ³   1.00 ³N 3ssC 2scC 3dcO 1dc
+601  ³      1 ³      1 ³   1.00 ³N 3ssC 2scC 3scO 1sc
+602  ³      2 ³      2 ³   2.00 ³N 3ssC 2ssC 2ssN 3ss
+603  ³      2 ³      2 ³   2.00 ³N 3ssC 2ssC 2ssO 2ss
+604  ³      1 ³      1 ³   1.00 ³N 3ssC 2ssC 3ssN 3ss
+605  ³      2 ³      2 ³   2.00 ³N 3ssC 2ssC 3ssO 2ss
+606  ³      2 ³      1 ³   2.00 ³N 3ssC 3dsO 1dc
+607  ³      1 ³      1 ³   1.00 ³N 3ssC 3ssC 3ssO 1sc
+608  ³      1 ³      1 ³   1.00 ³N 3ssC 3ssO 2ss
+609  ³      6 ³      2 ³   3.00 ³O 1dc
+610  ³      1 ³      1 ³   1.00 ³O 1dcC 2dcO 2sc
+611  ³      1 ³      1 ³   1.00 ³O 1dcC 3dcC 2scO 1sc
+612  ³      1 ³      1 ³   1.00 ³O 1dcC 3dcC 2scO 2sc
+613  ³      1 ³      1 ³   1.00 ³O 1dcC 3dcC 4ssO 1sc
+614  ³      1 ³      1 ³   1.00 ³O 1dcC 3dcO 2sc
+615  ³      6 ³      4 ³   5.00 ³O 1sc
+616  ³      1 ³      1 ³   1.00 ³O 1scC 2scC 3ssO 2ss
+617  ³      1 ³      1 ³   1.00 ³O 1scC 3scC 4ssO 1sc
+618  ³      1 ³      1 ³   1.00 ³O 1scC 3ssC 3ssO 2ss
+619  ³      3 ³      1 ³   1.00 ³O 2sc
+620  ³      1 ³      1 ³   1.00 ³O 2scC 3ssO 2ss
+621  ³      2 ³      1 ³   1.00 ³O 2ss
+622  ³      1 ³      1 ³   1.00 ³S 1dc
+623  ³     61 ³     37 ³  37.00 ³_LEN1
+624  ³     67 ³     41 ³  41.00 ³_LEN2
+625  ³    103 ³     65 ³  65.00 ³_LEN3
+626  ³    141 ³     94 ³  94.00 ³_LEN4
+627  ³    201 ³    132 ³ 132.00 ³_LEN5
+628  ³    269 ³    176 ³ 178.00 ³_LEN6
+629  ³     57 ³     37 ³  37.20 ³_R.Avsum
+630  ³     34 ³     21 ³  20.92 ³_R.len.1
+631  ³     29 ³     17 ³  17.35 ³_R.len.2
+632  ³     43 ³     27 ³  26.72 ³_R.len.3
+633  ³     57 ³     38 ³  37.73 ³_R.len.4
+634  ³     79 ³     52 ³  51.79 ³_R.len.5
+635  ³    105 ³     68 ³  68.69 ³_R.len.6
+636  ³    101 ³     35 ³  35.26 ³_T.aver.dist.dev.
+637  ³    596 ³    236 ³ 235.57 ³_T.aver.distance
+638  ³  11865 ³   2870 ³2870.00 ³_T.center
+639  ³     20 ³     13 ³  13.09 ³_T.compact
+640  ³     24 ³     15 ³  15.00 ³_T.diametr
+641  ³  18163 ³   4358 ³4358.00 ³_T.distance
+642  ³   1173 ³    432 ³ 432.00 ³_T.exentr
+643  ³    401 ³    158 ³ 158.00 ³_T.min.distance
+644  ³     13 ³      8 ³   8.00 ³_T.radius
+ÄÄÄÄÄÁÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÁÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
